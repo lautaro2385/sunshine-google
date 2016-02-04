@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_temperature_entries">
+        <item>Centigrados</item>
+        <item>Farengeit</item>
+    </string-array>
+    <string-array name="pref_temperature_entryvalues">
+        <item>@string/unit_metric</item>
+        <item>@string/unit_imperial</item>
+    </string-array>
+
+</resources>
